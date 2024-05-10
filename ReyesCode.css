@@ -1,0 +1,299 @@
+h1 {
+    text-align: center; 
+    text-shadow: 2px 2px #000000; 
+    color: rgb(0, 0, 0);
+    font-family: Georgia, Times, 'Times New Roman', Arial
+}
+
+.Main{
+    width: 100%;
+    background: url(CoolBackground.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: static;
+    font-family: sans-serif;
+}
+
+.FolkDance{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.Stuff img{
+    float: left;
+    width: 450px;
+    height: 550px;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+.Stuff h3{
+    font-size: 30px;
+    letter-spacing: 5px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.Stuff h1{
+    font-size: 60px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color:#353434;
+    text-shadow: black;
+    font-family: 'Courier New';
+    text-align: center;
+}
+
+span.AKO{
+    color: rgb(15, 207, 9);
+    font-family: 'Courier New';
+}
+
+span.AY{
+    color: rgb(255, 225, 57);
+    font-family: 'Courier New';
+}
+
+span.LPSCI{
+    color: rgb(248, 12, 12);
+    font-family: 'Courier New';
+}
+
+span.STUDENT{
+    color: rgb(12, 16, 249);
+    font-family: Arial;
+}
+
+.MarginRight{
+    margin-right: 5%;
+    text-align: right;
+}
+
+.MarginLeft{
+    margin-left: 5%;
+    text-align: left;
+    color:#000000
+}
+
+.MarginCenter{
+    text-align: center;
+    color: #000000
+}
+
+.quarter1 ul{
+    text-align: center;
+    list-style: circle;
+    font-family: sans-serif;
+}
+
+.UnangMarkahan{
+    width: 100%;
+    background: url(CoolBackground.jpg);
+    height: 300vh;
+    background-size: cover;
+    position: static;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+.UnangMarkahan img{
+    float: left;
+    width: 480px;
+    height: 320px;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.UnangMarkahan h2{
+    text-align: center;  
+    color: rgb(127, 15, 138);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
+
+.UnangMarkahan h1{
+    text-align: left;  
+    color: rgb(127, 15, 138);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
+
+.borderwhite{
+    border-color: white;
+}
+
+.floatLeft{
+    float: left;
+    margin-left: 5%;
+}
+
+.floatRight{
+    float: right;
+    margin-right: 5%;
+}
+
+p.RightCenter{
+    margin-right: 15%;
+    text-align: center;
+}
+
+p.LeftCenter{
+    margin-left: 15%;
+    text-align: center;
+}
+
+.Quarter2{
+    width: 100%;
+    background: url(CoolBackground.jpg);
+    height: 200vh;
+    background-size: cover;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-family: 'Arial Narrow Bold',
+}
+
+.Quarter2 h2{
+    font-size: 60px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color:#353434;
+    text-shadow: black;
+    font-family: 'Courier New';
+    text-align: center;
+}
+
+.Quarter2floatLeft{
+    float: left;
+    margin-left: 5%;
+}
+
+.Quarter2floatRight{
+    float: right;
+    margin-right: 5%;
+}
+
+.Quarter2RightCenter{
+    margin-right: 15%;
+    text-align: center;
+}
+
+.Quarter2LeftCenter{
+    margin-left: 15%;
+    text-align: center;
+}
+
+.Quarter3{
+    width: 100%;
+    background: url(CoolBackground.jpg);
+    height: 200vh;
+    background-size: cover;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-family: 'Arial Narrow Bold',
+}
+
+.Quarter3 h2{
+    font-size: 60px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color:#353434;
+    text-shadow: black;
+    font-family: 'Courier New';
+    text-align: center;
+}
+
+.Quarter3floatLeft{
+    float: left;
+    margin-left: 5%;
+}
+
+.Quarter3floatRight{
+    float: right;
+    margin-right: 5%;
+}
+
+.Quarter3RightCenter{
+    margin-right: 15%;
+    text-align: center;
+}
+
+.Quarter3LeftCenter{
+    margin-left: 15%;
+    text-align: center;
+}
+
+.Quarter4{
+    width: 100%;
+    background: url(CoolBackground.jpg);
+    height: 190vh;
+    background-size: cover;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-family: 'Arial Narrow Bold',
+}
+
+.Quarter4 h2{
+    font-size: 60px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color:#181616;
+    text-shadow: black;
+    font-family: 'Courier New';
+    text-align: center;
+}
+
+.Quarter4floatLeft{
+    float: left;
+    margin-left: 6%;
+}
+
+.Quarter4floatRight{
+    float: right;
+    margin-right: 6%;
+}
+
+.Quarter4RightCenter{
+    margin-right: 14%;
+    text-align: center;
+}
+
+.Quarter4LeftCenter{
+    margin-left: 14%;
+    text-align: center;
+}
+
+.py-container,
+.pv-container {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Align items vertically */
+    margin-bottom: 20px; /* Add margin between containers */
+}
+
+.py-container,
+.pv-container {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Align items vertically */
+    margin-bottom: 20px; /* Add margin between containers */
+}
+
+.py,
+.pv {
+    flex: 1; /* Allow paragraphs to grow and take available space */
+    text-align: justify;
+    font-size: 40px;
+    color: rgb(140, 255, 0);
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.video-container {
+    width: 50%; /* Each video container takes 50% width */
+}
+
+.video-container video {
+    width: 100%; /* Set video width to 100% of container */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 20px; /* Add margin between video and paragraph */
+}
