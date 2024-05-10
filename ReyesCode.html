@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+    <html>
+        <head><title>Portfolio Ni Azroes</title>
+            <link rel="stylesheet" href="ReyesCode.css" type="text/css">
+        </head>
+    <body>
+        <h1>Portfolio Ni Azroes</h1>
+        <div class="Main">
+            <div class="Stuff">
+                <img src="B15_REYES.jpg">
+                <p class="FolkDance">(It's better to turn on Audio🔊)</p>
+                <audio controls autoplay loop>
+                    <source src="Folk Dance sound.mp4" type="audio/mpeg">
+                   "GG AUDIO YEHEY" 
+                </audio>
+                <h3>Ako si <span class="STUDENT">Azuris</span>.</h3><br>
+                <h1><span class="AKO">AKO </span><span class="AY">AY </span><span class="LPSCI">LPSCI </span><span class="STUDENT">STUDENT</span></h1>
+                <br>
+                <h3>Eto ang website ko tungkol <br>aktibidad/takdang aralin na isinisama ang gamit ng ICT.</h3><br>
+                <h1><span class="AKO">SANA </span><span class="AY">MATUWA </span><span class="LPSCI">KAYO!</span></h1>
+            </div>
+        </div>
+
+        <div class="UnangMarkahan">
+            <h2><mark>🔥Ang Unang Markahan🔥</mark></h2><br><br>
+            <img src="9-Family.jpg" width="500" height="350">
+            <h1 class="MarginLeft"><b>Ang 9-Family</b></h1>
+            <ul class="MarginLeft">
+                <li> Ms. Ann Villarosa - Adviser👑</li>
+                <li> Monique - President🥳</li>
+                <li> Lexi - Vice President🤯</li>
+                <li> Audre - Secretary✍</li>
+                <li> Gab - Treasurer🤑</li>
+                <li> Julian - Auditor🤠</li>
+                <li> James - PIO📰</li>
+                <li> 🔥Yllaiza & Paulo - Sergeant and Arms💧</li>
+                </ul>
+            <br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+            <img class="floatRight" src="MAPEH1STQTR ART.jpg" width="400" height="350">
+            <h1 class="MarginLeft"><b>Mapeh Artwork  (I did not cooked)</b></h1>
+            <p align="left" class="marginleft"><font size="5">Narito ang isang performance task sa Mapeh,<br> kung saan gumawa kami ng isang artwork
+                na<br>pinapakita kung paano nangyari sa dating<br>panahon, o kung ano ung itsura
+                ng artwork noong dati pa.<br> At sabihin natin na HINDI ko ito nagustuhan 😭</font></p>
+            <br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+            <img class="Quarter2floatLeft" src="Slam dunk the junk!.jpg" width="400" height="300">
+            <h1 class="R"><b>SLAM DUNK THE JUNK🗣</b></h1>
+            <p class="LeftCenter"><font size="5">Narito naman ang ginawa namin ni <mark>Lendric Tondares</mark>🔥<br>
+            Ipinapakita nito ang kahalagahan ng<br>
+        pag-alaga sa kapaligiran.</font></p>
+            <br><br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+            <video class="Quarter2floatLeft"  width="450" height="300" controls>
+                <source src="ReyesVideo.mp4" type="video/mp4">
+            </video>
+            <h1 class="R"><b>😱English Video</b></h1>
+            <p align="left"><font size="5">👈Eto naman ang isang pt na ginawa namin sa english, <br>
+            ⬅and make a skit based on that style.</font></p>
+            <br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+            <img class="Quarter2floatLeft" src="Uhh.jpg" width="400" height="350">
+            <h1 class="MarginRight"><b>BRAZIL🗣</b></h1>
+            <p class="RightCenter"><font size="6">This is a photo where me and Yllaiza dressed up as natives in 
+                Brazil, I look tired here 💀💀
+            </font></p>
+            <br><br><br><br><br><br>
+            <div class="Ako">
+                <img src="Reyes.jpg" alt="bakit ako nandito">
+                <p>↙AKO IYAN!!</p>
+            </div>
+        </div>
+
+    <div class="Quarter2">
+            <div class="pv-container">
+            <h2><mark>🔥2ND QUARTER💧</mark></h2><br><br>
+     </div>
+            <div>
+            <img class="Quarter2floatLeft" src="VPop.jpg" width="450" height="250">
+            <h1 class="MarginCenter"><b>ANG VPOP  (I did not cooked)</b></h1>
+            <p class="Quarter2LeftCenter"><font size="5">Na-cram, ngunit nabawi😎</font></p>
+            </div>
+            <br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        <div-class="pv-container"
+            <img class="Quarter2floatLeft" src="MVP.jpg" width="400" height="275">
+            <h1 class="R"><b>THIS EVENT WILDIN</b></h1>
+            <p class="LeftCenter"><font size="5">I do not like this event at all,<mark>SAME LIKE VPOP</mark><br>
+            cramming time 🥶<br></font></p>
+            </div>
+            <br><br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        <div class="video-container">
+            <video class="Quarter2floatRight"  width="350" height="200" controls>
+                <source src="ChaCha.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div>
+            <h1 class="R"><b>ChaCha fr 🤑</b></h1>
+            <p class="RightCenter"><font size="5">Some chacha(mahusay)</font></p>
+        </div>
+            <br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        <div class="video-container">
+            <video class="Quarter2floatRight"  width="350" height="200" controls>
+                <source src="ESPVID.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div>
+            <h1 class="R"><b>ESP fr 🤑</b></h1>
+            <p class="RightCenter"><font size="5">Some ESP pt I forgot about(mahusay)</font></p>
+            </div>
+            <br><br><br><br><br><br><br>
+        <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        <div class="pv-container">
+            <img class="Quarter2floatLeft" src="JuanFlix.jpg" width="400" height="350">
+            <h1 class="MarginRight"><b>JuanFlix🗣</b></h1>
+            <p class="RightCenter"><font size="6">Sa litratong ito, nanood ako ng JuanFlix✅
+            </font></p>
+            </div>
+            <br><br><br><br><br><br>
+           
+        </div>
+    </div>
+        <hr style="height:3px;border-width:1;color:rgb(39, 113, 224);background-color:green">
+    
+        <div class="Quarter3"
+         <div class="pv-container">
+             ><mark>🤑3RD QUARTER💹</mark></h2><br><br>
+         </div>
+         <div>
+            <img class="Quarter3floatLeft" src="Waltz.jpg" width="450" height="250">
+            <h1 class="MarginCenter"><b>WALTZ NILA😂</b></h1>
+            <p class="Quarter3LeftCenter"><font size="5">Ang waltz ng mga kagrupo ko🔥</font></p>
+         </div>
+            <br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+    <div>
+            <img class="Quarter3floatLeft" src="Ap Nb.jpg" width="400" height="275">
+            <h1 class="R"><b>NAKAKAINIS ITO!😡🥴</b></h1>
+            <p class="LeftCenter"><font size="5">Ito ay nakakapagod<mark>dahil marami samin</mark><br>
+        ay nag-cram lamang🥶<br></font></p>
+    </div>
+        <br><br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+    <div>
+            <img class="Quarter3floatLeft" src="Research.jpg" width="400" height="275">
+            <h1 class="R"><b>NAKAKAINIS ITO!😡🥴</b></h1>
+            <p class="LeftCenter"><font size="5">Ito ay nakakapagod<mark>dahil nagpuyat kaming tatlo</mark><br>
+        para lamang dito, ngunit matagumpay<br> na na-defend ni James, salamat sa  tulong<br> namin ni Lendric.</font></p>
+            </div>
+        <br><br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        <div class="video-container">
+        <video class="Quarter3floatRight"  width="350" height="200" controls>
+            <source src="Folk Dance3.mp4" type="video/mp4">
+        </video>
+        </div>
+        <div>
+            <h1 class="R"><b>FOLK DANCE🔥🤑</b></h1>
+            <p class="RightCenter"><font size="5">WE GOT 1ST RUNNER UPP!!!</font></p>
+            </div>
+            <br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        <div class="video-container">
+            <video class="Quarter3floatRight"  width="50" height="25" controls>
+            <source src="Folk Dance4.mp4" type="video/mp4">
+        </video>
+        </div>
+        <div class="">
+            <h1 class="R"><b>Ang awards!</b></h1>
+            <p class="RightCenter"><font size="5">Nakakalungkot na hindi champion, pero<br>2nd place is not
+                bad at all! Hardwork, definitely payed off 😎
+            </font></p>
+        </div>
+            <br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+            <img class="Quarter3floatLeft" src="Folk Dance.jpg" width="400" height="350">
+            <h1 class="MarginRight"><b>More Folk Dance🗣</b></h1>
+            <p class="RightCenter"><font size="6"> Isang litratong ipinapakita ang mga folk dancers ng Family, at Fidelity
+                <table class="dashed" align="center" border="3" bordercolor="red" width="600" cellpadding="2" cellspacing="4">
+                <tbody><tr>
+                  <th style="background-color: rgb(7, 3, 248);">Klinthon Fung</th>
+                  <th style="background-color: rgb(248, 0, 0);">Azuris Reyes</th>
+                  <th style="background-color: rgb(7, 3, 248);">Alexis Adarne</th>
+                  <th style="background-color: rgb(248, 0, 0);">Kiev Oliveros</th>
+                </tr>
+                <tr>
+                  <td style="background-color: rgb(0, 128, 0);">Yllaiza Potentiano</td>
+                  <td style="background-color: rgb(252, 247, 0);">Dominique Macalanda</td>
+                  <td style="background-color: rgb(0, 128, 0);">Stacey Castillo</td>
+                  <td style="background-color: rgb(252, 247, 0);">Cyan Phebe Bocalan</td>
+                </tr>
+              </tbody></table>
+            </div>
+            </font></p>
+        <br><br><br><br><br><br>
+        </div>
+    </div>
+    <hr style="height:3px;border-width:1;color:rgb(39, 113, 224);background-color:green">
+
+    <div class="Quarter4">
+      <div class="pv-container">
+        <h2><mark>😃FINAL 🎭QUARTER, 4😢</mark></h2><br><br>
+      </div>
+        <img class="Quarter4floatLeft" src="Creative.jpg" width="450" height="250">
+        <h1 class="MarginCenter"><b>Ang creative planner ko sa esp, ito ang tutulong sa akin upang<br> piliin ko ang aking
+            career, maraming salamat Ms Shen</b></h1>
+        <p class="Quarter4LeftCenter"><font size="5">Madali ito gawin kaya natapos<br>ko kaagad</font></p>
+        <br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+    <img class="Quarter4floatLeft" src="Magazine.jpg" width="400" height="275">
+        <h1 class="R"><b>Fire Magazine fr 🔥</b></h1>
+        <p class="LeftCenter"><font size="5">Ito naman ang aking magazine tungkol sa<br>dating panahon, very cool<br>
+            and simple indeed! Marvelous Imagery!🥶<br></font></p>
+        <br><br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+    <img class="Quarter4floatLeft" src="Hands On.jpg" width="400" height="275">
+        <h1 class="R"><b>ANG HANDS ON NA MADALI FOR REAL 🔥</b></h1>
+        <p class="LeftCenter"><font size="5">Ito naman ang aming napaka cool na hands on,<br>very easy kasi naman
+        tinuro na sa amin<br> ng aming napakagalin na coding guro ang tungkol dito.</font></p>
+    <br><br><br><br><br><br><br><br>
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+    <img class="Quarter4floatLeft" src="9-Family ESP.jpg" width="400" height="275">
+        <h1 class="R"><b>💎Ang 9-Family(tatlo absent😠)🤝</b></h1>
+        <p class="LeftCenter"><font size="5">Ito naman ang aming litrato kanina sa ESP, since ito,<br>
+        ang huli naming pagkikita kay Ms Shen.<br> Maaaring nakakalungkot ang mga pagtatapos,<br> ngunit 
+        ang mga ito ay palalakasin tayo.</font></p>
+        <br><br><br><br><br><br><br><br>
+     "May we venture this peculiar journey, and be able to reach for the stars. Farewell, 9-Family."
+    <hr style="height:5px; border-width:2; border-color:black; background-color:black;">
+        </div>
+    </div>
+    <hr style="height:3px;border-width:1;color:rgb(39, 113, 224);background-color:green">
+    </body>
+    </html>
